@@ -1,4 +1,4 @@
-package com.example.foodcategories
+package com.example.foodcategories.data
 
 import retrofit2.http.GET
 

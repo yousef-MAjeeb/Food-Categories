@@ -1,4 +1,4 @@
-package com.example.foodcategories
+package com.example.foodcategories.data
 
 data class Categoty(
     val idCategory: String,
